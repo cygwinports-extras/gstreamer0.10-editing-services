@@ -1,0 +1,6 @@
+category: Audio Video
+requires: libges0.10_0 girepository-GLib2.0 girepository-Gst0.10 girepository-GstInterfaces0.10
+external-source: gstreamer0.10-editing-services
+sdesc: "GStreamer non-linear editor library (GObject Introspection data)"
+ldesc: "This is a high-level library for facilitating the creation of 
+audio/video non-linear editors with the GStreamer multimedia framework."
