@@ -1,6 +1,0 @@
-category: Audio Video
-requires: libglib2.0_0 libgstreamer0.10_0 libgstinterfaces0.10_0
-external-source: gstreamer0.10-editing-services
-sdesc: "GStreamer non-linear editor library (runtime)"
-ldesc: "This is a high-level library for facilitating the creation of 
-audio/video non-linear editors with the GStreamer multimedia framework."
